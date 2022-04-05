@@ -1,0 +1,21 @@
+.grid-container {
+    display: flex;
+    justify-content: center;
+}
+
+.grid {
+}
+
+.row {
+    display: flex;
+}
+
+.square {
+    border: 1px solid black;
+    background-color: white;
+    width: 2    0px;
+    height: 20px;
+}
+
+
+
